@@ -11,5 +11,9 @@ $ git clone https://github.com/IzzleNizzle/testingGit.git
 ```git add .```
 ```git commit -m 'Some message"```
 ```git push```
+You may need to do this (If it's your first time)
 ```git push --set-upstream origin branch-name```
 
+Then when you want to download the most up to date code, do a 
+
+```git pull origin master```
